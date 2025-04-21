@@ -26,12 +26,12 @@ class App extends Component {
 
                 <div className="components-container">
                     <div className="component hello-world">
-                        <h3>HelloWorld Component</h3>
+                        {/* <h3>HelloWorld Component</h3> */}
                         <HelloWorld name="Mounika Pydi" />
                     </div>
 
                     <div className="component counter">
-                        <h3>Counter Component</h3>
+                        {/* <h3>Counter Component</h3> */}
                         <Counter />
                     </div>
 
