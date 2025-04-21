@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mounika-react-app/static/css/main.ea65f660.css",
-    "main.js": "/mounika-react-app/static/js/main.50a97884.js",
+    "main.css": "/mounika-react-app/static/css/main.a1ef869e.css",
+    "main.js": "/mounika-react-app/static/js/main.b958a562.js",
     "static/js/453.3a022019.chunk.js": "/mounika-react-app/static/js/453.3a022019.chunk.js",
     "index.html": "/mounika-react-app/index.html",
-    "main.ea65f660.css.map": "/mounika-react-app/static/css/main.ea65f660.css.map",
-    "main.50a97884.js.map": "/mounika-react-app/static/js/main.50a97884.js.map",
+    "main.a1ef869e.css.map": "/mounika-react-app/static/css/main.a1ef869e.css.map",
+    "main.b958a562.js.map": "/mounika-react-app/static/js/main.b958a562.js.map",
     "453.3a022019.chunk.js.map": "/mounika-react-app/static/js/453.3a022019.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea65f660.css",
-    "static/js/main.50a97884.js"
+    "static/css/main.a1ef869e.css",
+    "static/js/main.b958a562.js"
   ]
 }
